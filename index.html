@@ -307,11 +307,21 @@ Truth spoken in love can restore one."
 
 </section>
 
-<footer>
+<div id="footer"></div>
 
-© Bradley Hobbs
+<script>
 
-</footer>
+fetch("footer.html")
+.then(response=>response.text())
+.then(data=>{
+
+document
+.getElementById("footer")
+.innerHTML=data;
+
+});
+
+</script>
 
 </body>
 
