@@ -1,135 +1,33 @@
-# The Strength in Truth: The Man Who Gave Too Much
+# The Strength in Truth | Bradley Hobbs
 
-A novel by Bradley Hobbs
+A Christian narrative about strength, sacrifice, responsibility, and the cost of giving beyond one's limits, with attention to truth, restoration, and the heart.
 
-## About
+## Live Website
+https://brad-hobbswd.github.io/strengthtruth-man-who-gave-too-much/
 
-Bobby once believed that love meant saying yes to everyone.
+## Project Overview
+A Christian narrative about strength, sacrifice, responsibility, and the cost of giving beyond one's limits, with attention to truth, restoration, and the heart.
 
-Living on the streets with little more than a monthly check and a worn Bible, Bobby gave away food, money, clothes, and pieces of himself to anyone who needed help. His kindness came from a genuine heart, yet years of guilt, grief, and fear quietly turned compassion into exhaustion.
+## Pages in This Repository
+- `chapter1.html`
+- `chapter2.html`
+- `chapter3.html`
+- `chapter4.html`
+- `chapter5.html`
+- `chapter6.html`
+- `chapter7.html`
+- `chapter8.html`
+- `contents.html`
+- `epilogue.html`
 
-Everything begins to change through difficult truths, painful losses, and an unexpected friendship with a woman named Grace. Bobby starts discovering that healthy boundaries are not selfish and that real love needs wisdom.
+## Technology
+A static website published through GitHub Pages using HTML and supporting styles, scripts, and media assets.
 
-Through faith in Jesus and lessons learned through hardship, Bobby discovers healing, purpose, and the strength that truth can bring.
+## Copyright and Permissions
+Copyright © 2026 Bradley Hobbs. All rights reserved.
 
-A moving story of mercy, grace, restoration, and learning how to love without losing yourself.
+Original writing, manuscripts, teaching materials, website copy, graphics, visual design, and source code are protected by copyright. Obtain written permission before copying, republishing, distributing, modifying, or commercially exploiting original materials, except where applicable law permits otherwise. Third-party materials remain subject to their owners' terms.
 
-## Themes
-
-• Truth spoken in love
-
-• Mercy and healing
-
-• Boundaries with wisdom
-
-• Grace and restoration
-
-• Faith in Jesus
-
-• Recovery from guilt
-
-• Discovering identity and purpose
-
-• Learning how to help without losing yourself
-
-## Website Structure
-
-index.html
-
-contents.html
-
-chapter1.html
-
-chapter2.html
-
-chapter3.html
-
-chapter4.html
-
-chapter5.html
-
-chapter6.html
-
-chapter7.html
-
-chapter8.html
-
-epilogue.html
-
-footer.html
-
-404.html
-
-README.md
-
-images/
-    strength-banner.jpg
-
-## Chapters
-
-Chapter One:
-The Streets and His Heart
-
-Chapter Two:
-The Price of a Good Heart
-
-Chapter Three:
-A Friend Named Grace
-
-Chapter Four:
-The Mirror of Mercy
-
-Chapter Five:
-The Gift of Boundaries
-
-Chapter Six:
-When Grace Fades
-
-Chapter Seven:
-A Winter Test
-
-Chapter Eight:
-The Shelter Within
-
-Epilogue:
-Full Circle
-
-## Website
-
-Read online:
-
-https://brad-hobbswd.github.io/strengthtruth-man-who-gave-too-much
-
-## Repository Description
-
-A faith centered story of mercy, healing, boundaries, and discovering the strength found in truth through Jesus.
-
-## Suggested Repository Topics
-
-christian-fiction
-
-faith
-
-jesus
-
-novel
-
-healing
-
-grace
-
-boundaries
-
-restoration
-
-inspirational
-
-christian-book
-
-bradley-hobbs
-
-## Author
-
-Bradley Hobbs
-
-Writing stories focused on Jesus, healing, truth, grace, restoration, and hope.
+## Search Engine Files
+- [Sitemap](sitemap.xml)
+- [robots.txt](robots.txt)
